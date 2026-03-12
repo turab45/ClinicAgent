@@ -1,1 +1,1 @@
-# ClinicAgent: 
+# ClinicAgent: Multi-Agent Framework for Automated Clinical Documentation and Follow-up Planning
